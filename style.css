@@ -6,10 +6,8 @@
 }
 
 body {
-  background-image: 
-  linear-gradient(rgba(88, 89, 146, 0.7),
-   rgba(88, 89, 146, 0.7)),
-    url(./images/banner.jpeg);
+  background-image:
+  linear-gradient(rgba(88, 89, 146, 0.7),rgba(88, 89, 146, 0.7)),url(./images/banner.jpeg);
   background-position: center;
   background-size: cover;
 
@@ -32,8 +30,7 @@ body {
 #surveyForm {
   border: 1px solid black;
   background-image: 
-  linear-gradient(rgba(39, 39, 70, 0.7),
-   rgba(39, 39, 70, 0.7));
+  linear-gradient(rgba(39, 39, 70, 0.7),rgba(39, 39, 70, 0.7));
   margin: 0 20%;
   padding: 50px;
   position: relative;
