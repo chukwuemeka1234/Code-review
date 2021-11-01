@@ -5,10 +5,8 @@
   color: white;
 }
 body {
-  background-image: linear-gradient(
-      rgba(88, 89, 146, 0.7),
-      rgba(88, 89, 146, 0.7)
-    ),
+  background-image:
+  linear-gradient( rgba(88, 89, 146, 0.7),rgba(88, 89, 146, 0.7)),
     url(./images/banner.jpeg);
   background-position: center;
   background-size: cover;
